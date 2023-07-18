@@ -1,4 +1,4 @@
-## Desarrollador full stack junior	:metal:
+# Desarrollador full stack junior	:metal:
 ### JavaScript / Typescript - Nodejs - Angular - Reactjs - Express
 ### SQL - C# - .NET - Java
 - - -
