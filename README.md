@@ -1,6 +1,6 @@
 # Desarrollador full stack junior	:metal:
 ### JavaScript / Typescript - Nodejs - Angular - Reactjs - Express
-### SQL - C# - .NET - Java
+### Java - Spring Boot - Thymeleaf - SQL 
 - - -
 Soy titulado como analista programador, además de autodidacta, me encanta el mundo de la tecnología y busco mi primera oportunidad como desarrollador junior.
 - - -
