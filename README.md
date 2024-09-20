@@ -1,8 +1,8 @@
 # Desarrollador full stack junior	:metal:
-### JavaScript / Typescript - Nodejs - Angular - Reactjs - Express
-### Java - Spring Boot - Thymeleaf - SQL 
+### JavaScript / Typescript - Nodejs - Reactjs - Express
+### Python - Django - Java - POO - SQL 
 - - -
-Soy titulado como analista programador, además de autodidacta, me encanta el mundo de la tecnología y busco mi primera oportunidad como desarrollador junior.
+Soy trabajador y estudiante de ingeniería informática con mención en desarrollo, además de autodidacta, me encanta el mundo de la tecnología y busco mi primera oportunidad como desarrollador junior.
 - - -
 > Deberias nombrar a una variable con el mismo cuidado, con el cual nombras a tu primer hijo. —Robert C. Martin
 <!--
