@@ -1,6 +1,6 @@
 # Desarrollador full stack junior	:metal:
-### JavaScript / Typescript - Nodejs - Reactjs - Express
-### Python - Django - Java - POO - SQL 
+### JavaScript / ReactJs - Python
+### Java - Spring Boot - Java - POO - SQL 
 - - -
 Soy trabajador y estudiante de ingeniería informática con mención en desarrollo, además de autodidacta, me encanta el mundo de la tecnología y busco mi primera oportunidad como desarrollador junior.
 - - -
